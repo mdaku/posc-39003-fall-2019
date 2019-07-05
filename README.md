@@ -87,31 +87,31 @@ Texas Christian University complies with the Americans with Disabilities Act and
 |    | 9/04  | Review of Statistics  | S & W: Chapter 3 |
 | 3  | 9/09  | Linear Regression with One Regressor |  S & W: Chapter 4  <br /> Lab 1 Due |
 |    | 9/11  | | | 
-| 4  | 9/16  | One Regressor: Hypothesis Tests & Confidence Intervals | Chapter 5 <br /> Lab 2 Due |
+| 4  | 9/16  | One Regressor: Hypothesis Tests & Confidence Intervals | S & W: Chapter 5 <br /> Lab 2 Due |
 |    | 9/18  | | |		
-| 5  | 9/23  | Linear Regression with Multiple Regressors	| Chapter 6 <br /> Lab 3 Due |
+| 5  | 9/23  | Linear Regression with Multiple Regressors | S & W: Chapter 6 <br /> Lab 3 Due |
 |    | 9/25  | | | 	
-| 6  | 9/30  | Multiple Regressors: Hypothesis Tests & Confidence Intervals | Chapter 7 <br /> Lab 4 Due |
+| 6  | 9/30  | Multiple Regressors: Hypothesis Tests & Confidence Intervals | S & W: Chapter 7 <br /> Lab 4 Due |
 |    | 10/02 | | |		
-| 7  | 10/07 | Non-Linear Regression Functions | Chapter 8 <br /> Lab 5 Due | 
+| 7  | 10/07 | Non-Linear Regression Functions | S & W: Chapter 8 <br /> Lab 5 Due | 
 |    | 10/09 | | | 		
 | 8  | 10/14 | NO CLASS	| |
 |    | 10/16 | NO CLASS 	| |
 | 9  | 10/21 | Mid-term Test Review | |
 |    | 10/23 | Mid-term Test | |
-| 10 | 10/28 | Regression with Panel Data | Chapter 10 |
+| 10 | 10/28 | Regression with Panel Data | S & W: Chapter 10 |
 |    | 10/30 | | |		
-| 11 | 11/04 | Regression with a Binary Dependent Variable | Chapter 11 <br /> Lab 6 Due |
+| 11 | 11/04 | Regression with a Binary Dependent Variable | S & W: Chapter 11 <br /> Lab 6 Due |
 |    | 11/06 | | | 		
 | 12 | 11/11 | CLASS CANCELLED	| |
 |    | 11/13 | CLASS CANCELLED	| |
-| 13 | 11/18 | Time Series Regression and Forecasting | Chapter 14 <br /> Lab 7 Due |
+| 13 | 11/18 | Time Series Regression and Forecasting | S & W: Chapter 14 <br /> Lab 7 Due |
 |    | 11/20 | | |		
 | 14 | 11/25 | NO CLASS (Thanksgiving) | |
 |    | 11/27 | NO CLASS (Thanksgiving) | |	
-| 15 | 12/02 | Experiments & Quasi-Experiments	| Chapter 13 <br/>Lab 8 Due |
+| 15 | 12/02 | Experiments & Quasi-Experiments	| S & W: Chapter 13 <br/>Lab 8 Due |
 |    | 12/04 | | |
-| 16 | 12/09 | Assessing Studies Based on Multiple Regression | Chapter 9 |
+| 16 | 12/09 | Assessing Studies Based on Multiple Regression | S & W: Chapter 9 |
 |    | 12/11 | Presentations | | 
 | 17 | 12/16 | Final Project Due | |			
 	
