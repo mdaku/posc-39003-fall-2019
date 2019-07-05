@@ -103,7 +103,7 @@ It is expected that you will come to course prepared, having read the course mat
 
 _Please note that this grading scale is different than the typical grading scale used at TCU._
 
-| Grade | Points | Grade | Points | Grade | Points | Grade | Points | Grade | Points | 
+| Grade | Points | Grade | Points | Grade | Points | Grade | Points | 
 |---|---|---|---|---|---|---|---|---|---|
 | A   |	85 – 100% | B+ | 75 – 79% | C+ | 60 – 64% | F | 0 – 49% | 
 | A - |	80 – 84%  | B  | 70 – 74% | C  | 55 – 59% |   |  |		
