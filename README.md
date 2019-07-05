@@ -1,5 +1,5 @@
 # POSC 39003 - Quantitative Methods for Political Science
-Prof. Mark Daku [mark.daku@tcu.edu](mailto:mark.daku@tcu.edu)
+Prof. Mark Daku <br /> [mark.daku@tcu.edu](mailto:mark.daku@tcu.edu)
 
 ## Course Information
 
@@ -9,9 +9,9 @@ Prof. Mark Daku [mark.daku@tcu.edu](mailto:mark.daku@tcu.edu)
   <tr><td colspan=2>&nbsp;</td><td colspan=2><a href="http://www.calendly.com/markdaku" target="_BLANK">Sign up for office hours here</a></td></tr>
 </table>
 
-## Course Description & Goals
+## Course Description
 
-This course introduces the student to regression analysis for social science inquiry
+This course introduces the student to regression analysis for social science inquiry. We will be working primarily in R.
 
 ## Pre-requisites
 
