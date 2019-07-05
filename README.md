@@ -100,9 +100,10 @@ It is expected that you will come to course prepared, having read the course mat
 
 
 **Final Grade Calculation: (grades .5 or above rounded up)**
-| A   |	85 – 100% | B+ | 75 – 79% | C+ | 60 – 64% | D +	67 – 69%	F	0 – 59%
-| A - |	80 – 84%  | B  | 70 – 74% | C  | 73 – 76% |	D	63 – 66%		
-|     |           | B- | 65 – 69% | C- | 70 – 72% |	D -	60 – 62%		
+
+| A   |	85 – 100% | B+ | 75 – 79% | C+ | 60 – 64% | D+	| 67 – 69% | F |0 – 59% |
+| A - |	80 – 84%  | B  | 70 – 74% | C  | 73 – 76% | D   | 63 – 66% | |		
+|     |           | B- | 65 – 69% | C- | 70 – 72% | D-  | 60 – 62% | |		
 
 
 **I really need an A in this class:**
@@ -114,7 +115,7 @@ Here’s how you do it:
 2)	Do the reading!  Do it twice if you need to.  Review your notes, find an effective way for you to understand the material and remember it
 3)	Go to the labs! Do the labs, practice using these concepts in different situations
 4)	Talk to me! I am a resource! Come to my office hours, e-mail me, harass me on campus, ask me questions in class, question things that aren’t clear or that you don’t get.
-5)	Come to me at the end of the term when you have a C and beg for an A because you tried really hard and if you don’t get an A, you won’t be able to go to law school.
+5)	~Come to me at the end of the term when you have a C and beg for an A because you tried really hard and if you don’t get an A, you won’t be able to go to law school.~
 
 
 
