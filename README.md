@@ -4,7 +4,7 @@ Prof. Mark Daku [mark.daku@tcu.edu](mailto:mark.daku@tcu.edu)
 ## Course Information
 
 <table>
-  <tr><td>Course time:</td> <td>M/W 15:30 - 17:00 </td><td>Course location: SCHAR 2008</td><td></td></tr>
+  <tr><td>Course time:</td> <td>M/W 15:30 - 17:00 </td><td>Course location:</td><td>SCHAR 2008</td><td></td></tr>
   <tr><td>Office</td><td>Scharbauer Hall 2012A </td><td>Office Hours:</td><td>Wednesdays 11:00 - 14:00</td></tr>
   <tr><td colspan=2>&nbsp;</td><td colspan=2><a href="http://www.calendly.com/markdaku" target="_BLANK">Sign up for office hours here</a></td></tr>
 </table>
@@ -70,9 +70,62 @@ Texas Christian University complies with the Americans with Disabilities Act and
 ## Assessment Overview
 <table>
   <tr><td>Assignment</td><td>% of Course Grade</td></tr>
-<tr><td>Labs (x10)</td><td>30%</td></tr>
-<tr><td>In Class Exams</td><td>20%</td></tr>
-<tr><td>Final Exam</td><td>40%</td></tr>
-Participation and Preparedness	10%
+  <tr><td>Labs (x8)</td><td>40%</td></tr>
+  <tr><td>Mid-Term Exam</td><td>20%</td></tr>
+  <tr><td>Final Project</td><td>30%</td></tr>
+  <tr><td>Participation and Preparedness</td><td>10%</td></tr>
+</table>
+
+## Schedule
+
+
+| Week | Date | Topic | Reading/Assignment |
+| ---- | ---- | ----- | ------------------ |
+| 1 | 8/26 | Syllabus & Course Expectations | Introduction to R (DataCamp) <br/>
+                                              Recommended: <br />
+                                              Portwood-Stacer, Laura. How to Email Your Professor |
+|  | 8/28 | Review of Probability | S&W: Chapter 2 | 
+
+
+2	9/02	Review of Statistics 	Chapter 3
+	9/04		
+3	9/09	Linear Regression with One Regressor	Chapter 4
+Lab 1 Due
+	9/11		
+4	9/16	One Regressor: Hypothesis Tests & Confidence Intervals	Chapter 5
+Lab 2 Due
+	9/18		
+5	9/23	Linear Regression with Multiple Regressors	Chapter 6
+Lab 3 Due
+	9/25		
+6	9/30	Multiple Regressors: Hypothesis Tests & Confidence Intervals	Chapter 7
+Lab 4 Due
+	10/02		
+7	10/07	Non-Linear Regression Functions	Chapter 8
+Lab 5 Due
+	10/09		
+8	10/14	NO CLASS	
+	10/16	NO CLASS 	
+9	10/21	Mid-term Test Review	
+	10/23	Mid-term Test	
+10	10/28	Regression with Panel Data	Chapter 10
+	10/30		
+11	11/04	Regression with a Binary Dependent Variable	Chapter 11
+Lab 6 Due
+	11/06		
+12	11/11	CLASS CANCELLED	
+	11/13	CLASS CANCELLED	
+13	11/18	Time Series Regression and Forecasting	Chapter 14
+Lab 7
+	11/20		
+14	11/25	NO CLASS Thanksgiving	
+	11/27	NO CLASS Thanksgiving	
+15	12/02	Experiments & Quasi-Experiments	Chapter 13
+Lab 8
+	12/04		
+16	12/09	Assessing Studies Based on Multiple Regression	Chapter 9
+	12/11	Presentations	
+Exam Period			
+		Final Project Due	
 
 
