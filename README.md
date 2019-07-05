@@ -81,20 +81,14 @@ Texas Christian University complies with the Americans with Disabilities Act and
 
 | Week | Date | Topic | Reading/Assignment |
 | ---- | ---- | ----- | ------------------ |
-| 1 | 8/26 | Syllabus & Course Expectations | Introduction to R (DataCamp) <br/>
-                                              Recommended: <br />
-                                              Portwood-Stacer, Laura. How to Email Your Professor |
-|  | 8/28 | Review of Probability | S&W: Chapter 2 | 
-
-
-2	9/02	Review of Statistics 	Chapter 3
-	9/04		
-3	9/09	Linear Regression with One Regressor	Chapter 4
-Lab 1 Due
-	9/11		
-4	9/16	One Regressor: Hypothesis Tests & Confidence Intervals	Chapter 5
-Lab 2 Due
-	9/18		
+| 1 | 8/26 | Syllabus & Course Expectations | Introduction to R (DataCamp) <br/> Recommended: <br /> Portwood-Stacer, Laura. How to Email Your Professor |
+|   | 8/28 | Review of Probability | S & W: Chapter 2 | 
+| 2 | 9/02 | No Class (Labour Day) | 		      |
+|   | 9/04 | Review of Statistics  | S & W: Chapter 3 |
+| 3 | 9/09 | Linear Regression with One Regressor |  S & W: Chapter 4  <br /> Lab 1 Due |
+|   | 9/11 | | | 
+| 4 | 9/16 | One Regressor: Hypothesis Tests & Confidence Intervals | Chapter 5 <br/ > Lab 2 Due |
+|   | 9/18		
 5	9/23	Linear Regression with Multiple Regressors	Chapter 6
 Lab 3 Due
 	9/25		
