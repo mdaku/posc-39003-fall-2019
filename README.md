@@ -4,7 +4,7 @@ Prof. Mark Daku [mark.daku@tcu.edu](mailto:mark.daku@tcu.edu)
 ## Course Information
 
 <table>
-  <tr><td>Course time:</td> <td>M/W 15:30 - 17:00 </td><td>Course location:</td><td>SCHAR 2008</td><td></td></tr>
+  <tr><td>Course time:</td> <td>M/W 15:30 - 17:00 </td><td>Course location:</td><td>SCHAR 2008</td></tr>
   <tr><td>Office</td><td>Scharbauer Hall 2012A </td><td>Office Hours:</td><td>Wednesdays 11:00 - 14:00</td></tr>
   <tr><td colspan=2>&nbsp;</td><td colspan=2><a href="http://www.calendly.com/markdaku" target="_BLANK">Sign up for office hours here</a></td></tr>
 </table>
