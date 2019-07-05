@@ -68,13 +68,51 @@ Texas Christian University complies with the Americans with Disabilities Act and
 **Please note: I have no tolerance for cheating, plagiarism, or collusion. Any cases of purposeful academic misconduct will be punished to the greatest extent possible, no exceptions. Any case of plagiarism (intentional or not) will receive a zero, and depending on the situation, will be escalated to the appropriate academic offices.**
 
 ## Assessment Overview
-<table>
-  <tr><td>Assignment</td><td>% of Course Grade</td></tr>
-  <tr><td>Labs (x8)</td><td>40%</td></tr>
-  <tr><td>Mid-Term Exam</td><td>20%</td></tr>
-  <tr><td>Final Project</td><td>30%</td></tr>
-  <tr><td>Participation and Preparedness</td><td>10%</td></tr>
-</table>
+
+| Assignment | % of Course Grade | 
+| ---------- | ----------------- |
+| Labs (x8)  | 40% 		 |
+| Mid-Term Exam  | 20% 		 |
+| Final Project  | 30% 		 |
+| Participation & Preparedness  | 10% |
+
+### Labs (40%) 
+There are 8 labs, worth 5% of your final grade each.  Late labs will not be accepted. You cannot make up labs, or do extra labs.
+ 
+### Mid-Term Exam (20%) 
+There is one in-class exam. There will be a review the class before.
+
+### Research Paper (30%)
+You are required to produce a final research paper on a political science question of your choice.  Your research paper must perform at least one regression analysis, and must be a proper research paper.  With tables, this paper should be between 15-20 double spaced pages.
+
+### Participation and Preparedness (10%)
+The success of this class is largely dependent on your engaged and lively participation in it. Please come to class prepared: read the assigned readings, take careful notes, and be ready for class discussions. This grade is determined by a combination of attendance, my assessment of your engagement in class, and random pop-quizzes. 
+
+Attendance & Participation Expectations: It is expected that you will come to course prepared, having read the course material, and ready to engage in discussion. The assigned materials should be completed before class on the date listed in the syllabus, except for the labs when we will complete the assignments during the lab. You should always bring your textbook and workbook to class and lab. Student participation is strongly encouraged through questions, informed comments, observations, etc. Attendance and participation are important to your success in this course, so I expect you to attend class every session.  A few things:
+1)	Please do not e-mail me if you are going to miss a class. You are all adults with your own lives, and that means that you get to make decisions about how to use your time. 
+2)	Please DO e-mail me if you are missing class for a University Approved Reason, or due to a documented family or personal emergency. You can get official documentation from your doctor or from campus life. This must get to me within a week of the missed class.
+3)	Please never e-mail me after missing a class with “what did I miss?” This is not my responsibility, it is yours.  
+4)	Attendance grades, pop quizzes and labs cannot be made up, unless missed due to a valid (see (2) above) reason.
+Extra Credit: Nope.
+
+
+Grades Appeal: There are no subjective measures in this class.  As such, I will only entertain grade appeals that have to do with counting errors or ambiguities in question wording.
+
+
+Final Grade Calculation: (grades .5 or above rounded up)
+A	94 – 100%	B +	87 – 89%	C +	77 – 79%	D +	67 – 69%	F	0 – 59%
+A -	90 – 93%	B	83 – 86%	C	73 – 76%	D	63 – 66%		
+		B -	80 – 82%	C -	70 – 72%	D -	60 – 62%		
+
+
+I really need an A in this class: That’s great! I’d love for you to get an A in this class! This class is very difficult, but it’s not impossible to get an A. Here’s how you do it:
+1)	Come to class! Listen, take notes, pay attention, engage with the material. Ask questions, struggle to figure things out.
+2)	Do the reading!  Do it twice if you need to.  Review your notes, find an effective way for you to understand the material and remember it
+3)	Go to the labs! Do the labs, practice using these concepts in different situations
+4)	Talk to me! I am a resource! Come to my office hours, e-mail me, harass me on campus, ask me questions in class, question things that aren’t clear or that you don’t get.
+5)	Come to me at the end of the term when you have a C and beg for an A because you tried really hard and if you don’t get an A, you won’t be able to go to law school.
+
+
 
 ## Schedule
 
