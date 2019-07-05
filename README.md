@@ -88,24 +88,28 @@ You are required to produce a final research paper on a political science questi
 ### Participation and Preparedness (10%)
 The success of this class is largely dependent on your engaged and lively participation in it. Please come to class prepared: read the assigned readings, take careful notes, and be ready for class discussions. This grade is determined by a combination of attendance, my assessment of your engagement in class, and random pop-quizzes. 
 
-Attendance & Participation Expectations: It is expected that you will come to course prepared, having read the course material, and ready to engage in discussion. The assigned materials should be completed before class on the date listed in the syllabus, except for the labs when we will complete the assignments during the lab. You should always bring your textbook and workbook to class and lab. Student participation is strongly encouraged through questions, informed comments, observations, etc. Attendance and participation are important to your success in this course, so I expect you to attend class every session.  A few things:
+**Attendance & Participation Expectations:** 
+
+It is expected that you will come to course prepared, having read the course material, and ready to engage in discussion. The assigned materials should be completed before class on the date listed in the syllabus. _You should always bring your textbook to class._  Student participation is strongly encouraged through questions, informed comments, observations, etc. Attendance and participation are important to your success in this course, so I expect you to attend class every session.  A few things:
 1)	Please do not e-mail me if you are going to miss a class. You are all adults with your own lives, and that means that you get to make decisions about how to use your time. 
 2)	Please DO e-mail me if you are missing class for a University Approved Reason, or due to a documented family or personal emergency. You can get official documentation from your doctor or from campus life. This must get to me within a week of the missed class.
 3)	Please never e-mail me after missing a class with “what did I miss?” This is not my responsibility, it is yours.  
 4)	Attendance grades, pop quizzes and labs cannot be made up, unless missed due to a valid (see (2) above) reason.
-Extra Credit: Nope.
+
+**Extra Credit:** Nope.
 
 
-Grades Appeal: There are no subjective measures in this class.  As such, I will only entertain grade appeals that have to do with counting errors or ambiguities in question wording.
+**Final Grade Calculation: (grades .5 or above rounded up)**
+| A   |	85 – 100% | B+ | 75 – 79% | C+ | 60 – 64% | D +	67 – 69%	F	0 – 59%
+| A - |	80 – 84%  | B  | 70 – 74% | C  | 73 – 76% |	D	63 – 66%		
+|     |           | B- | 65 – 69% | C- | 70 – 72% |	D -	60 – 62%		
 
 
-Final Grade Calculation: (grades .5 or above rounded up)
-A	94 – 100%	B +	87 – 89%	C +	77 – 79%	D +	67 – 69%	F	0 – 59%
-A -	90 – 93%	B	83 – 86%	C	73 – 76%	D	63 – 66%		
-		B -	80 – 82%	C -	70 – 72%	D -	60 – 62%		
+**I really need an A in this class:**
 
+That’s great! I’d love for you to get an A in this class! This class is very difficult, but it’s not impossible to get an A. 
 
-I really need an A in this class: That’s great! I’d love for you to get an A in this class! This class is very difficult, but it’s not impossible to get an A. Here’s how you do it:
+Here’s how you do it:
 1)	Come to class! Listen, take notes, pay attention, engage with the material. Ask questions, struggle to figure things out.
 2)	Do the reading!  Do it twice if you need to.  Review your notes, find an effective way for you to understand the material and remember it
 3)	Go to the labs! Do the labs, practice using these concepts in different situations
