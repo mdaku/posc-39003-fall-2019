@@ -100,13 +100,14 @@ It is expected that you will come to course prepared, having read the course mat
 
 
 **Final Grade Calculation: (grades .5 or above rounded up)**
-
+| Grade | Points | Grade | Points | Grade | Points | Grade | Points | Grade | Points | 
+|---|---|---|---|---|---|---|---|---|---|
 | A   |	85 – 100% | B+ | 75 – 79% | C+ | 60 – 64% | D+	| 67 – 69% | F |0 – 59% |
 | A - |	80 – 84%  | B  | 70 – 74% | C  | 73 – 76% | D   | 63 – 66% | |		
 |     |           | B- | 65 – 69% | C- | 70 – 72% | D-  | 60 – 62% | |		
 
 
-**I really need an A in this class:**
+**I _really_ need an A in this class:**
 
 That’s great! I’d love for you to get an A in this class! This class is very difficult, but it’s not impossible to get an A. 
 
@@ -119,8 +120,11 @@ Here’s how you do it:
 
 
 
-## Schedule
+## Course Schedule
 
+Note: This course outline is subject to change. 
+
+All readings are to be done before the lecture.  All lab assignments must be completed before the class.
 
 | Week | Date | Topic | Reading/Assignment |
 | ---- | ---- | ----- | ------------------ |
