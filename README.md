@@ -100,11 +100,14 @@ It is expected that you will come to course prepared, having read the course mat
 
 
 **Final Grade Calculation: (grades .5 or above rounded up)**
+
+_Please note that this grading scale is different than the typical grading scale used at TCU._
+
 | Grade | Points | Grade | Points | Grade | Points | Grade | Points | Grade | Points | 
 |---|---|---|---|---|---|---|---|---|---|
-| A   |	85 – 100% | B+ | 75 – 79% | C+ | 60 – 64% | D+	| 67 – 69% | F |0 – 59% |
-| A - |	80 – 84%  | B  | 70 – 74% | C  | 73 – 76% | D   | 63 – 66% | |		
-|     |           | B- | 65 – 69% | C- | 70 – 72% | D-  | 60 – 62% | |		
+| A   |	85 – 100% | B+ | 75 – 79% | C+ | 60 – 64% | F | 0 – 49% | 
+| A - |	80 – 84%  | B  | 70 – 74% | C  | 55 – 59% |   |  |		
+|     |           | B- | 65 – 69% | D  | 50 – 54% |   |  |		
 
 
 **I _really_ need an A in this class:**
