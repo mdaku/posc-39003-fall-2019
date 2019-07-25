@@ -17,13 +17,14 @@ This course introduces the student to regression analysis for social science inq
 
 It is assumed that the student has a basic knowledge of probability, algebra, and inferential statistics, and a cursory knowledge of regression analysis (POSC 20093 or an equivalent should suffice).  
 
-It is also assumed that the student has a basic understanding of R, Stata or SPSS.  Examples in the course will be demonstrated using R, but the student may use the software of their choice to complete their final assignment.
+It is also assumed that the student has a basic understanding of R, Stata or SPSS.  Work in the course will be demonstrated using R, but the student may use the software of their choice to complete their final assignment.
 
 This is NOT an easy course. You have been warned. 
 
 ## Required Material
 
 * James H. Stock & Mark W. Watson. 2015. _Introduction to Econometrics: updated third edition._ Pearson Education Limited.
+* Christoph Hanck, Martin Arnold, Alexander Gerber and Martin Schmelzer. 2018. _Introduction to Econometrics Using R._ Available for free online <a href="https://bookdown.org/machar1991/ITER/" target="_BLANK">here</a>
  
 ## Recommended Material
 
