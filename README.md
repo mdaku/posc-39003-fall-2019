@@ -23,8 +23,8 @@ This is NOT an easy course. You have been warned.
 
 ## Required Material
 
-* James H. Stock & Mark W. Watson. 2015. _Introduction to Econometrics: updated third edition._ Pearson Education Limited.
-* Christoph Hanck, Martin Arnold, Alexander Gerber and Martin Schmelzer. 2018. _Introduction to Econometrics Using R._ Available for free online <a href="https://bookdown.org/machar1991/ITER/" target="_BLANK">here</a>
+* Stock, James H. & Mark W. Watson. 2015. _Introduction to Econometrics: updated third edition._ Pearson Education Limited. Referred to below as S&W.
+* Hanck, Christoph, Martin Arnold, Alexander Gerber & Martin Schmelzer. 2018. _Introduction to Econometrics Using R._ Available for free online <a href="https://bookdown.org/machar1991/ITER/" target="_BLANK">here</a>. Referred to below as HAGS.
  
 ## Recommended Material
 
@@ -74,8 +74,8 @@ Texas Christian University complies with the Americans with Disabilities Act and
 | ---------- | ----------------- |
 | Labs (x8)  | 40% 		 |
 | Mid-Term Exam  | 20% 		 |
-| Final Project  | 30% 		 |
-| Participation & Preparedness  | 10% |
+| Final Project  | 35% 		 |
+| Participation & Preparedness  | 5% |
 
 ### Labs (40%) 
 There are 8 labs, worth 5% of your final grade each.  Late labs will not be accepted. You cannot make up labs, or do extra labs.
@@ -83,10 +83,16 @@ There are 8 labs, worth 5% of your final grade each.  Late labs will not be acce
 ### Mid-Term Exam (20%) 
 There is one in-class exam. There will be a review the class before.
 
-### Research Paper (30%)
-You are required to produce a final research paper on a political science question of your choice.  Your research paper must perform at least one regression analysis, and must be a proper research paper.  With tables, this paper should be between 15-20 double spaced pages.
+### Research Paper (35%)
+You are required to produce a final research paper on a political science question of your choice.  Your research paper must perform at least one regression analysis, and must be a proper research paper.  With tables, this paper should be between 15-20 double spaced pages. A one-page proposal that articulates your data source, research question, and basic literature is due on October 16th. Students will be required to give a 7 minute presentation on their research on December 11th, and the final paper itself is due on December 16th.
 
-### Participation and Preparedness (10%)
+| Component | Grade |
+| --------- | ----- |
+| Proposal  |   2.5%  |
+| Presentation | 2.5% |
+| Final Paper | 30% | 
+
+### Participation and Preparedness (5%)
 The success of this class is largely dependent on your engaged and lively participation in it. Please come to class prepared: read the assigned readings, take careful notes, and be ready for class discussions. This grade is determined by a combination of attendance, my assessment of your engagement in class, and random pop-quizzes. 
 
 **Attendance & Participation Expectations:** 
@@ -105,7 +111,7 @@ It is expected that you will come to course prepared, having read the course mat
 _Please note that this grading scale is different than the typical grading scale used at TCU._
 
 | Grade | Points | Grade | Points | Grade | Points | Grade | Points | 
-|---|---|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|---|
 | A   |	85 – 100% | B+ | 75 – 79% | C+ | 60 – 64% | F | 0 – 49% | 
 | A - |	80 – 84%  | B  | 70 – 74% | C  | 55 – 59% |   |  |		
 |     |           | B- | 65 – 69% | D  | 50 – 54% |   |  |		
@@ -133,36 +139,36 @@ All readings are to be done before the lecture.  All lab assignments must be com
 | Week | Date | Topic | Reading/Assignment |
 | ---- | ---- | ----- | ------------------ |
 | 1  | 8/26  | Syllabus & Course Expectations | Introduction to R (DataCamp) <br /><br /> _Recommended_: <br /> Portwood-Stacer, Laura. How to Email Your Professor |
-|    | 8/28  | Review of Probability | S & W: Chapter 2 | 
+|    | 8/28  | Review of Probability | S & W: Chapter 2 <br /> HAGS: Chapter 2 | 
 | 2  | 9/02  | No Class (Labour Day) | 		      |
-|    | 9/04  | Review of Statistics  | S & W: Chapter 3 |
+|    | 9/04  | Review of Statistics  | S & W: Chapter 3 <br /> HAGS: Chapter 3 |
 | 3  | 9/09  | Linear Regression with One Regressor |  S & W: Chapter 4  <br /> Lab 1 Due |
-|    | 9/11  | | | 
+|    | 9/11  | | HAGS: Chapter 4| 
 | 4  | 9/16  | One Regressor: Hypothesis Tests & Confidence Intervals | S & W: Chapter 5 <br /> Lab 2 Due |
-|    | 9/18  | | |		
+|    | 9/18  | | HAGS: Chapter 5 |		
 | 5  | 9/23  | Linear Regression with Multiple Regressors | S & W: Chapter 6 <br /> Lab 3 Due |
-|    | 9/25  | | | 	
+|    | 9/25  | | HAGS: Chapter 6 | 	
 | 6  | 9/30  | Multiple Regressors: Hypothesis Tests & Confidence Intervals | S & W: Chapter 7 <br /> Lab 4 Due |
-|    | 10/02 | | |		
+|    | 10/02 | | HAGS: Chapter 7|		
 | 7  | 10/07 | Non-Linear Regression Functions | S & W: Chapter 8 <br /> Lab 5 Due | 
 |    | 10/09 | | | 		
 | 8  | 10/14 | NO CLASS	| |
-|    | 10/16 | NO CLASS 	| |
+|    | 10/16 | NO CLASS 	| Final Project Proposal Due |
 | 9  | 10/21 | Mid-term Test Review | |
 |    | 10/23 | Mid-term Test | |
 | 10 | 10/28 | Regression with Panel Data | S & W: Chapter 10 |
-|    | 10/30 | | |		
+|    | 10/30 | | HAGS: Chapter 10 |		
 | 11 | 11/04 | Regression with a Binary Dependent Variable | S & W: Chapter 11 <br /> Lab 6 Due |
 |    | 11/06 | | | 		
-| 12 | 11/11 | CLASS CANCELLED	| |
-|    | 11/13 | CLASS CANCELLED	| |
+| 12 | 11/11 | CLASS CANCELLED	| Final Project Work Time |
+|    | 11/13 | CLASS CANCELLED	| Final Project Work Time |
 | 13 | 11/18 | Time Series Regression and Forecasting | S & W: Chapter 14 <br /> Lab 7 Due |
-|    | 11/20 | | |		
+|    | 11/20 | | HAGS: Chapter 14 |		
 | 14 | 11/25 | NO CLASS (Thanksgiving) | |
 |    | 11/27 | NO CLASS (Thanksgiving) | |	
 | 15 | 12/02 | Experiments & Quasi-Experiments	| S & W: Chapter 13 <br/>Lab 8 Due |
-|    | 12/04 | | |
-| 16 | 12/09 | Assessing Studies Based on Multiple Regression | S & W: Chapter 9 |
+|    | 12/04 | | HAGS: Chapter 13 |
+| 16 | 12/09 | Assessing Studies Based on Multiple Regression | S & W: Chapter 9 <br /> HAGS: Chapter 9 |
 |    | 12/11 | Presentations | | 
 | 17 | 12/16 | Final Project Due | |			
 	
