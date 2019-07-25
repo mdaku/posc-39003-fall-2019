@@ -11,7 +11,7 @@ Prof. Mark Daku <br /> [mark.daku@tcu.edu](mailto:mark.daku@tcu.edu)
 
 ## Course Description
 
-This course introduces the student to regression analysis for social science inquiry. We will be working primarily in R.
+This course introduces the student to regression analysis for social science inquiry. Students will learn in depth about linear regression, multiple regression, logistic regression, as well as how to work with time-series and panel data. By the end of the course, the student will be able to confidently conduct basic regression analyses on social science data. We will be working primarily in R, but a mastery of R is not expected or required.
 
 ## Pre-requisites
 
