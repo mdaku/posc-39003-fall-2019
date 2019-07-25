@@ -138,7 +138,7 @@ All readings are to be done before the lecture.  All lab assignments must be com
 
 | Week | Date | Topic | Reading/Assignment |
 | ---- | ---- | ----- | ------------------ |
-| 1  | 8/26  | Syllabus & Course Expectations | Introduction to R (DataCamp) <br /><br /> _Recommended_: <br /> Portwood-Stacer, Laura. How to Email Your Professor |
+| 1  | 8/26  | Syllabus & Course Expectations | Introduction to R (DataCamp) <br /> HAGS: Chapter 1 <br /><br /> _Recommended_: <br /> Portwood-Stacer, Laura. How to Email Your Professor |
 |    | 8/28  | Review of Probability | S & W: Chapter 2 <br /> HAGS: Chapter 2 | 
 | 2  | 9/02  | No Class (Labour Day) | 		      |
 |    | 9/04  | Review of Statistics  | S & W: Chapter 3 <br /> HAGS: Chapter 3 |
@@ -151,7 +151,7 @@ All readings are to be done before the lecture.  All lab assignments must be com
 | 6  | 9/30  | Multiple Regressors: Hypothesis Tests & Confidence Intervals | S & W: Chapter 7 <br /> Lab 4 Due |
 |    | 10/02 | | HAGS: Chapter 7|		
 | 7  | 10/07 | Non-Linear Regression Functions | S & W: Chapter 8 <br /> Lab 5 Due | 
-|    | 10/09 | | | 		
+|    | 10/09 | | HAGS: Chapter 8 | 		
 | 8  | 10/14 | NO CLASS	| |
 |    | 10/16 | NO CLASS 	| Final Project Proposal Due |
 | 9  | 10/21 | Mid-term Test Review | |
@@ -160,8 +160,8 @@ All readings are to be done before the lecture.  All lab assignments must be com
 |    | 10/30 | | HAGS: Chapter 10 |		
 | 11 | 11/04 | Regression with a Binary Dependent Variable | S & W: Chapter 11 <br /> Lab 6 Due |
 |    | 11/06 | | | 		
-| 12 | 11/11 | CLASS CANCELLED	| Final Project Work Time |
-|    | 11/13 | CLASS CANCELLED	| Final Project Work Time |
+| 12 | 11/11 | NO CLASS	(Final Project Work Time) |  |
+|    | 11/13 | NO CLASS	(Final Project Work Time) |  |
 | 13 | 11/18 | Time Series Regression and Forecasting | S & W: Chapter 14 <br /> Lab 7 Due |
 |    | 11/20 | | HAGS: Chapter 14 |		
 | 14 | 11/25 | NO CLASS (Thanksgiving) | |
