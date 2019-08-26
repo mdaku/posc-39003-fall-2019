@@ -138,7 +138,7 @@ All readings are to be done before the lecture.  All lab assignments must be com
 
 | Week | Date | Topic | Reading/Assignment |
 | ---- | ---- | ----- | ------------------ |
-| 1  | 8/26  | Syllabus & Course Expectations | Introduction to R (DataCamp) <br /> HAGS: Chapter 1 <br /><br /> _Recommended_: <br /> Portwood-Stacer, Laura. How to Email Your Professor |
+| 1  | 8/26  | Syllabus & Course Expectations | <a href="https://www.datacamp.com/courses/free-introduction-to-r" TARGET="_BLANK">Introduction to R (DataCamp)</a> <br /> HAGS: Chapter 1 <br /><br /> _Recommended_: <br /> Portwood-Stacer, Laura. <a href="https://medium.com/@lportwoodstacer/how-to-email-your-professor-without-being-annoying-af-cf64ae0e4087" target="_BLANK">How to Email Your Professor</a> |
 |    | 8/28  | Review of Probability | S & W: Chapter 2 <br /> HAGS: Chapter 2 | 
 | 2  | 9/02  | No Class (Labour Day) | 		      |
 |    | 9/04  | Review of Statistics  | S & W: Chapter 3 <br /> HAGS: Chapter 3 |
