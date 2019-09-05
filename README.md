@@ -141,9 +141,9 @@ All readings are to be done before the lecture.  All lab assignments must be com
 | 1  | 8/26  | Syllabus & Course Expectations | <a href="https://www.datacamp.com/courses/free-introduction-to-r" TARGET="_BLANK">Introduction to R (DataCamp)</a> <br /> HAGS: Chapter 1 <br /><br /> _Recommended_: <br /> Portwood-Stacer, Laura. <a href="https://medium.com/@lportwoodstacer/how-to-email-your-professor-without-being-annoying-af-cf64ae0e4087" target="_BLANK">How to Email Your Professor</a> |
 |    | 8/28  | Review of Probability | S & W: Chapter 2 <br /> HAGS: Chapter 2 | 
 | 2  | 9/02  | No Class (Labour Day) | 		      |
-|    | 9/04  | Review of Statistics  | S & W: Chapter 3 <br /> HAGS: Chapter 3 |
-| 3  | 9/09  | Linear Regression with One Regressor |  S & W: Chapter 4  <br /> Lab 1 Due |
-|    | 9/11  | | HAGS: Chapter 4| 
+|    | 9/04  |  Review of Statistics 1 | Hands-on Lab |
+| 3  | 9/09  | Review of Statistics 2 | S & W: Chapter 3 <br /> HAGS: Chapter 3 |
+|    | 9/11  | Linear Regression with One Regressor | S & W: Chapter 4  <br/>HAGS: Chapter 4<br /> <b>Lab 1 Due</b> | 
 | 4  | 9/16  | One Regressor: Hypothesis Tests & Confidence Intervals | S & W: Chapter 5 <br /> Lab 2 Due |
 |    | 9/18  | | HAGS: Chapter 5 |		
 | 5  | 9/23  | Linear Regression with Multiple Regressors | S & W: Chapter 6 <br /> Lab 3 Due |
