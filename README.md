@@ -153,7 +153,7 @@ All readings are to be done before the lecture.  All lab assignments must be com
 | 7  | 10/07 | Non-Linear Regression Functions | S & W: Chapter 8 | 
 |    | 10/09 | | HAGS: Chapter 8  <br /> Lab 5 Due | 		
 | 8  | 10/14 | NO CLASS	| |
-|    | 10/16 | NO CLASS 	| Final Project Proposal Due |
+|    | 10/16 | NO CLASS 	| Final Project Proposal Due By E-mail October 18th, 11:59 PM |
 | 9  | 10/21 | Mid-term Test Review | |
 |    | 10/23 | Mid-term Test | |
 | 10 | 10/28 | Regression with Panel Data | S & W: Chapter 10 |
