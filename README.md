@@ -150,24 +150,24 @@ All readings are to be done before the lecture.  All lab assignments must be com
 |    | 9/25  | | HAGS: Chapter 6 <br /> Lab 3 Due | 	
 | 6  | 9/30  | Multiple Regressors: Hypothesis Tests & Confidence Intervals | S & W: Chapter 7  |
 |    | 10/02 | | HAGS: Chapter 7 <br /> Lab 4 Due |		
-| 7  | 10/07 | Non-Linear Regression Functions | S & W: Chapter 8 | 
-|    | 10/09 | | HAGS: Chapter 8  <br /> Lab 5 Due | 		
+| 7  | 10/07 | Multiple Regressors: Hypothesis Tests & Confidence Intervals | (Continued) | 
+|    | 10/09 | Literature Reviews & Research Design | Lab 5 Due | 		
 | 8  | 10/14 | NO CLASS	| |
 |    | 10/16 | NO CLASS 	| Final Project Proposal Due By E-mail October 18th, 11:59 PM |
 | 9  | 10/21 | Mid-term Test Review | |
 |    | 10/23 | Mid-term Test | |
-| 10 | 10/28 | Regression with Panel Data | S & W: Chapter 10 |
-|    | 10/30 | | HAGS: Chapter 10 |		
-| 11 | 11/04 | Regression with a Binary Dependent Variable | S & W: Chapter 11  |
-|    | 11/06 | | Lab 6 Due | 		
+| 10 | 10/28 | Non-Linear Regression Functions | S & W: Chapter 8 |
+|    | 10/30 | | HAGS: Chapter 8   |		
+| 11 | 11/04 | Regression with Panel Data | S & W: Chapter 10  |
+|    | 11/06 | | HAGS: Chapter 10 <br /> Lab 6 Due | 		
 | 12 | 11/11 | NO CLASS	(Final Project Work Time) |  |
 |    | 11/13 | NO CLASS	(Final Project Work Time) |  |
-| 13 | 11/18 | Time Series Regression and Forecasting | S & W: Chapter 14 |
-|    | 11/20 | | HAGS: Chapter 14 <br /> Lab 7 Due |		
+| 13 | 11/18 | Regression with a Binary Dependent Variable | S & W: Chapter 11  |
+|    | 11/20 | | Lab 7 Due |		
 | 14 | 11/25 | NO CLASS (Thanksgiving) | |
 |    | 11/27 | NO CLASS (Thanksgiving) | |	
-| 15 | 12/02 | Experiments & Quasi-Experiments	| S & W: Chapter 13 |
-|    | 12/04 | | HAGS: Chapter 13 <br/>Lab 8 Due |
+| 15 | 12/02 | Time Series Regression and Forecasting | S & W: Chapter 14  |
+|    | 12/04 | | HAGS: Chapter 14 <br/>Lab 8 Due |
 | 16 | 12/09 | Assessing Studies Based on Multiple Regression | S & W: Chapter 9 <br /> HAGS: Chapter 9 |
 |    | 12/11 | Presentations | | 
 | 17 | 12/16 | Final Project Due | |			
